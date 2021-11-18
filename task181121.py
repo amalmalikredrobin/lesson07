@@ -38,3 +38,9 @@ if hrs >= 0 and 0 <= mins <= 59:
     if mins <= 9 : mins = '0' + str(mins)
     print(f'{new_hrs}:{mins}')
 else: print('Error')
+
+# b =1 
+
+# a = 9 if b > 2 else 10
+
+# print(a)
